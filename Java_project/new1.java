@@ -6,6 +6,8 @@ public class new1 {
     int b=2;
        
 
+
+        tfghjhbgfgh
     }
     
 }
